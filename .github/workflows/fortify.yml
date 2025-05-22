@@ -127,3 +127,12 @@ jobs:
           # EXPORT_ACTION: <URL or file>                   # Customize export action
           # EXPORT_EXTRA_OPTS: --on-unsigned=ignore        # Pass extra options to export action
           # TOOL_DEFINITIONS: <URL>                        # URL from where to retrieve Fortify tool definitions
+{
+  "chainId": 101,
+  "address": "AmBBsks6spKMgF3ebDqJnd6ASxzeFC48rtEUn5CaocBU",
+  "symbol": "MASKDOGS",
+  "name": "Mask Dogs",
+  "decimals": 9,
+  "logoURI": "https://yourdomain.com/maskdogs-logo.png",
+  "tags": ["meme", "community"]
+}
